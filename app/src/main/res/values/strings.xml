@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercise4_EPFCalculator</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="date">Date of Birth</string>
+    <string name="saving">saving</string>
+    <string name="TransNotMore">Transfer Not More than 30%</string>
+    <string name="age">age</string>
+</resources>

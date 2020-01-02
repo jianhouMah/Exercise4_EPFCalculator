@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/pickDateBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pick_date" />
+
+    <TextView
+        android:id="@+id/shDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/date" />
+
+    <TextView
+        android:id="@+id/age"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/age" />
+
+    <TextView
+        android:id="@+id/saving"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/saving" />
+
+    <TextView
+        android:id="@+id/investment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/TransNotMore" />
+
+</LinearLayout>
